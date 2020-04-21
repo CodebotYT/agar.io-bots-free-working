@@ -9,7 +9,12 @@ Follow youtube video Yt Qessey
 7.Copy all code 
 6 Paste into tampermonkey 
 7. Open Bots for agar.io controlls.txt for controlls
+
+Reload to use again bots will not respawn 900 bots max
+
 Credit NuclearC - MrSonicMaster - Sizrex
+
+
 Best to look at youtube video Qessey is the channel name
 
 Controlls 
