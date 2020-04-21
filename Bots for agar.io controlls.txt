@@ -1,0 +1,6 @@
+Controlls 
+
+X - Split
+C - Food
+P - farming
+stop / start button - stop / start
