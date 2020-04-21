@@ -5,10 +5,10 @@ Follow youtube video Yt Qessey
 3.Download zip
 4.Tampermonkey create new user script
 5.Delete all code there allreaddy 
-6.Open Bots for agar.io 100% free + working
+6.Open code.txt
 7.Copy all code 
 6 Paste into tampermonkey 
-7. Open Bots for agar.io controlls for controlls
+7. Open Bots for agar.io controlls.txt for controlls
 Credit NuclearC - MrSonicMaster - Sizrex
 Best to look at youtube video Qessey is the channel name
 
